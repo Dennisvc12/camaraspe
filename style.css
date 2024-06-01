@@ -60,7 +60,7 @@ button {
   padding: 50px;
   display: -webkit-box;
   display: flex;
-  -webkit-box-orient: vertical;
+  -webkit-box-orient: horizontale;
   -webkit-box-direction: normal;
           flex-direction: column;
 }
