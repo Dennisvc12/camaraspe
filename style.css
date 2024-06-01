@@ -57,7 +57,7 @@ button {
   border-bottom: 1px solid black;
 }
 .feedback-body {
-  padding: 20px;
+  padding: 80px;
   display: -webkit-box;
   display: flex;
   -webkit-box-orient: vertical;
