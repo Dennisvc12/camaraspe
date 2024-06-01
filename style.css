@@ -51,13 +51,13 @@ button {
 }
 .feedback-header {
   text-align: center;
-  padding: 80px;
+  padding: 200px;
   font-size: 14px;
   font-weight: 700;
   border-bottom: 1px solid black;
 }
 .feedback-body {
-  padding: 80px;
+  padding: 200px;
   display: -webkit-box;
   display: flex;
   -webkit-box-orient: horizontale;
