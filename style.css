@@ -26,7 +26,7 @@ input, button, textarea {
   background-image: none;
   background-color: #dadad3;
   box-shadow: none;
-  padding: 5px;
+  padding: 50px;
 }
 input:focus, button:focus, textarea:focus {
   outline: none;
