@@ -44,7 +44,7 @@ button {
 
 .feedback-card {
   border: 1px solid black;
-  max-width: 1080px;
+  max-width: 980px;
   background-color: #fff;
   margin: 0 auto;
   box-shadow: -0.6rem 0.6rem 0 rgba(29, 30, 28, 0.26);
